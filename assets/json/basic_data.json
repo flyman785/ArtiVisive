@@ -1,0 +1,206 @@
+{
+    "eventi_1img1": {
+        "url": "../images/foto1_eventi.png",
+        "description": "Libro 'Mulieres in Ecclesiis Taceant' Testo di Domenico Amoroso con un'intervista a Sylvia Franchi (ed. Artivisive, Roma)"
+    },
+    "eventi_1img2": {
+        "url": "../images/foto2_eventi.png",
+        "description": "Lia Drei - 'Collage 13' 1969"
+    },
+    "eventi_1img3": {
+        "url": "../images/foto3_eventi.png",
+        "description": "Parigi - Centre Pompidou 2018 (Premio Fondazione Bonotto) Da sinistra: Sylvia Franchi e Lamberto Pignotti"
+    },
+    "eventi_1img7": {
+        "url": "../images/foto7_eventi.png",
+        "description": "Elisa Montessori Variazioni n°4 - 1978 cm 32,5x47,5 - inchiostro su carta"
+    },
+    "eventi_1img4": {
+        "url": "../images/foto4_eventi.png",
+        "description": "Quinto Ghermandi - 1969 (galleria Artivisive 1970) 'Per traguardare il volo degli uccelli'(bronzo, a cera persa. unico esemplare)"
+    },
+    "eventi_1img6": {
+        "url": "../images/foto6_eventi.png",
+        "description": "Michele Cossyro 'Amo verde' galleria Artivisive (Roma) 1975"
+    },
+    "eventi_1img5": {
+        "url": "../images/foto5_eventi.png",
+        "description": "Tomaso Binga - 'Lettera liberatoria' 1972"
+    },
+    "eventi_2img1": {
+        "url": "../images/foto1_eventi_2.png",
+        "description": "Eventi e Altro"
+    },
+    "eventi_2img2": {
+        "url": "../images/foto2_eventi_2.png",
+        "description": "Rivista 'Segno' N° 275"
+    },
+    "eventi_2img3": {
+        "url": "../images/foto3_eventi_2.png",
+        "description": "Eventi e Altro"
+    },
+    "eventi_2img5": {
+        "url": "../images/foto5_eventi_2.png",
+        "description": "Eventi e Altro"
+    },
+    "eventi_2img4": {
+        "url": "../images/foto4_eventi_2.png",
+        "description": "Eventi e Altro"
+    },
+    "eventi_3img1": {
+        "url": "../images/foto1_eventi_3.png",
+        "description": "Locandina per la presentazione del libro: - Padova 2019"
+    },
+    "eventi_3img3": {
+        "url": "../images/foto3_eventi_3.png",
+        "description": "Eliseo Mattiacci - 'Parafulmine/Attirafulmine neutro' anno 1963 - (matite e tecnica mista su carta)"
+    },
+    "eventi_3img2": {
+        "url": "../images/foto2_eventi_3.png",
+        "description": "Caltagirone 2019 - Museo Diocesano presentazione del libro: Mulieres in Ecclesiis Taceant da sinistra: <br> F. Alba, S. Franchi, D. Amoroso, Don F. Raimondi"
+    },
+    "eventi_3img4": {
+        "url": "../images/foto4_eventi_3.png",
+        "description": "Achille Perilli - 'Senza titolo' - anno 1954 (tecnica mista su carta)"
+    },
+    "index_img1": {
+        "url": "images/foto1_home.png",
+        "description": "Galleria Artivisive sede di Via Properzio (Roma, 1979)"
+    },
+    "index_img2": {
+        "url": "images/foto2_home.png",
+        "description": "'Il Vangelo' di Antonio del Donno (1972)."
+    },
+    "index_img3": {
+        "url": "images/foto3_home.png",
+        "description": "Ketty La Rocca 'Alfabeto' anni 70."
+    },
+    "index_img4": {
+        "url": "images/foto4_home.png",
+        "description": "Quinto Ghermandi 'L'Eclisse' 1970 (unico)."
+    },
+    "index_img5": {
+        "url": "images/foto5_home.png",
+        "description": "Attilio Antibo - scultura in ceramica (1976)."
+    },
+    "index_img6": {
+        "url": "images/foto6_home.png",
+        "description": "Eugenia Beck Lefebvre 'Donna Sarda' anni 70."
+    },
+    "bio_img1": {
+        "url": "../images/foto1_bio.png",
+        "description": "Inaugurazione della Galleria Artivisive - 'Presenze di scultura' Da sinistra: Sylvia Franchi, Alberto Boatto, Filiberto Menna, Rosario Assunto"
+    },
+    "bio_img2": {
+        "url": "../images/foto2_bio.png",
+        "description": "Galleria Artivisive - sede di via Angelo Brunetti, Roma - 1969"
+    },
+    "donazioni_img1": {
+        "url": "../images/foto1_donazioni.png",
+        "description": "Depliant donazione fatta nel 2000 e presentata nel 2007 Edizione straordinaria 2007 - MACC Museo d'Arte Contemporanea Caltagirone - Musei Civici Luigi Sturzo"
+    },
+    "donazioni_img2": {
+        "url": "../images/foto2_donazioni.png",
+        "description": "Inaugurazione della Donazione Da sinistra: Sylvia Franchi, Domenico Amoroso, Francesco Pignataro e Alessandra Foti"
+    },
+    "design_img1": {
+        "url": "../images/foto1_design.png",
+        "description": "Anna Torelli 'Partitura n° 22' 1979 Galleria Artivisive 'Testimonianze' Roma"
+    },
+    "design_img2": {
+        "url": "../images/foto2_design.png",
+        "description": "Roberto Fasola (Anni cinquanta) 'Atene - Tempio di Giove' cm.69x49 – disegno a penna"
+    },
+    "design_img3": {
+        "url": "../images/foto3_design.png",
+        "description": "Giuseppe Chiari 'Pagina di Musica' 1970"
+    },
+    "design_img4": {
+        "url": "../images/foto4_design.png",
+        "description": "'In forma color 1991' - Galleria Artivisive, Roma (da sinistra: Carlo Lorenzetti, Renato Barisani, Mario Ceroli, Pietro Consagra, Angelo Savelli, Giulio Turcato, Michele Cossyro...)"
+    },
+    "design_img5": {
+        "url": "../images/foto5_design.png",
+        "description": "'Progetti e oggetti' 1991/1992 - Galleria Artivisive, Roma (Alessandro Mendini, Bruno Munari, Denis Santachiara, Ettore Sotsass, Cinzia Ruggeri...)"
+    },
+    "design_img6": {
+        "url": "../images/foto6_design.png",
+        "description": "Bice Lazzari 'Segmenti', linea e rosso - 1976(cm 22x25 - disegno e pastello)"
+    },
+    "archivio_img1": {
+        "url": "../../images/foto1_archivio.png",
+        "description": "Lamberto Pignotti 'Poesia visiva, 1968'"
+    },
+    "archivio_img2": {
+        "url": "../../images/foto2_archivio.png",
+        "description": "Nedda Guidi - 'Impraticabile' Artivisive 1971"
+    },
+    "archivio_img3": {
+        "url": "../../images/foto3_archivio.png",
+        "description": "Mario Schifano 'Kastello' 1962 (Opera rubata in America al Convention Center di Los Angeles nel 1989 - regolarmente denunciata). Pubblicata nel catalogo 'Basel'12 - Art Expo' 1986 - Esposta: Expo di Basel, Galleria Artivisive Roma, Los Angeles, Convention Center."
+    },
+    "archivio_img4": {
+        "url": "../../images/foto4_archivio.png",
+        "description": "Inaugurazione della mostra personale di Salvatore Emblema alla Galleria Artivisive di Roma nel 1972. Da sinistra: Salvatore Emblema, Giulio Carlo Argan, Filiberto Menna"
+    },
+    "archivio_img5": {
+        "url": "../../images/foto5_archivio.png",
+        "description": "Salvatore Emblema 'Rosso' 1972."
+    },
+    "archivio_img6": {
+        "url": "../../images/foto6_archivio.png",
+        "description": "Eugenia Beck Lefebvre - 'Autoritratto riflesso' 1942"
+    },
+    "archivio_img7": {
+        "url": "../../images/foto7_archivio.png",
+        "description": "Salvatore Emblema - 'Trasparente' 1970 (Galleria Artivisive, Roma)"
+    },
+    "archivio_img8": {
+        "url": "../../images/foto8_archivio.png",
+        "description": "Eugenia Beck Lefebvre - 'Autoritratto' 1945"
+    },
+    "archivio_img9": {
+        "url": "../../images/foto9_archivio.png",
+        "description": "Luigi Ontani '...Caltagirone-Roma-Amor' 1980/1990"
+    },
+    "archivio_img10": {
+        "url": "../../images/foto10_archivio.png",
+        "description": "Lamberto Pignotti - 'Help!'(Galleria Artivisive, Roma: 'Per una poesia totale' 1970)"
+    },
+    "expo_img1": {
+        "url": "../../images/foto1_expo.png",
+        "description": "Europ'Art 1994 Genève, Palexpo (Stand Artivisive) da sinistra: Sylvia Franchi, Laura D'Andrea Petrantoni, Jessica Martensson, Candida Ferrari"
+    },
+    "expo_img2": {
+        "url": "../../images/foto2_expo.png",
+        "description": "Eugenia Beck Lefebvre 'La figlia del portiere' 1941 Pubblicazione a cura di Sylvia Franchi, testo di Domenico Amoroso, edizioni 'Fondazione Maruzza Lefebvre D'Ovidio' 2007"
+    },
+    "expo_img3": {
+        "url": "../../images/foto3_expo.png",
+        "description": "Expo Arte Bologna 1991 - (Stand Galleria Artivisive) Achille Pace e Sylvia Franchi"
+    },
+    "expo_img4": {
+        "url": "../../images/foto4_expo.png",
+        "description": "Roma 'Testimonianze' Galleria Artivisive c/o la Biblioteca Angelica, 2008 da sinistra: Sylvia Franchi, Emanuele Leone Emblema, Filina Emblema, Tomaso Binga."
+    },
+    "expo_img5": {
+        "url": "../../images/foto5_expo.png",
+        "description": "Lamberto Pignotti - 1997 'Ecco il futuro d'avanguardia' (Arte e Critica n° 88/89 - 2017)"
+    },
+    "expo_img6": {
+        "url": "../../images/foto6_expo.png",
+        "description": "Camillo Maniscalco - testi di Jolanda Nigro Covre e Maurizio Fagiolo dell'Arco - Ed Artivisive, Roma"
+    },
+    "expo_img7": {
+        "url": "../../images/foto7_expo.png",
+        "description": "Lamberto Pignotti - 'Art Card' Ed. Artivisive, Roma"
+    },
+    "expo_img8": {
+        "url": "../../images/foto8_expo.png",
+        "description": "Eugenia Beck Lefebvre - Testo di Domenico Amoroso - a cura di Sylvia Franchi (Fondazione Maruzza Lefebvre D'Ovidio), Roma"
+    },
+    "expo_img9": {
+        "url": "../../images/foto9_expo.png",
+        "description": "Art Fair 2009 - Lineart 28 - Ghent, Belgio (Eugenia Beck Lefebvre, Piero Dorazio)"
+    }
+}
